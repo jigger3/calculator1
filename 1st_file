@@ -5,3 +5,6 @@ cout<< "Division:"<< a/b <<endl;
 
 cout<<"multiplication:"<< a*b<<endl;
 
+
+cout<< "Subtraction:"<< a-b<<endl;
+
