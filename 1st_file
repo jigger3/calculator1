@@ -1,3 +1,7 @@
 Muhammad Khubaib
 23st017
+
+cout<< "Subtraction:"<< a-b<<endl;
+
 cout<< "addition of these two numbers are"<< a+b<<endl;
+
