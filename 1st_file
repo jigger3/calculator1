@@ -1,2 +1,3 @@
 Muhammad Khubaib
 23st017
+cout<< "addition of these two numbers are"<< a+b<<endl;
